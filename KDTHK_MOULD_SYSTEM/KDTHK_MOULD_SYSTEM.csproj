@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C6CE9B39-0B75-48B8-8D11-20CCB7BDB740}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KDTHK_MOULD_SYSTEM</RootNamespace>
+    <AssemblyName>KDTHK_MOULD_SYSTEM</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\kdthk-dm1\project\it system\KDTHK_MOULD_SYSTEM\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Mould System</ProductName>
+    <PublisherName>KDTHK</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <TrustUrlParameters>true</TrustUrlParameters>
+    <ApplicationRevision>45</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Reports %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>31C3DCB18A2BF1A4D8E2FF2BC813B0379B221D8F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>KDTHK_MOULD_SYSTEM_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CustomUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\native\CustomUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\Mould System\Mould System\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="account\AccountUtil.cs" />
+    <Compile Include="account\FaApproval.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaApproval.Designer.cs">
+      <DependentUpon>FaApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaAssetClass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaAssetClass.Designer.cs">
+      <DependentUpon>FaAssetClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaAssetClass2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaAssetClass2.Designer.cs">
+      <DependentUpon>FaAssetClass2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaDataCheck.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaDataCheck.Designer.cs">
+      <DependentUpon>FaDataCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaDownload.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaDownload.Designer.cs">
+      <DependentUpon>FaDownload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaInput.Designer.cs">
+      <DependentUpon>FaInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaOverview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaOverview.Designer.cs">
+      <DependentUpon>FaOverview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaReview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaReview.Designer.cs">
+      <DependentUpon>FaReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaRingi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaRingi.Designer.cs">
+      <DependentUpon>FaRingi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\FaSetup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account\FaSetup.Designer.cs">
+      <DependentUpon>FaSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\form\FixedAssetGenerate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="account\form\FixedAssetGenerate.Designer.cs">
+      <DependentUpon>FixedAssetGenerate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\form\RejectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="account\form\RejectForm.Designer.cs">
+      <DependentUpon>RejectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\lists\OverviewList.cs" />
+    <Compile Include="account\MainAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="account\MainAccount.Designer.cs">
+      <DependentUpon>MainAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account\Vendor.cs" />
+    <Compile Include="data\Amount.cs" />
+    <Compile Include="data\Criteria.cs" />
+    <Compile Include="data\General.cs" />
+    <Compile Include="data\Mould.cs" />
+    <Compile Include="data\MouldCode.cs" />
+    <Compile Include="data\Oem.cs" />
+    <Compile Include="data\PO.cs" />
+    <Compile Include="data\Ringi.cs" />
+    <Compile Include="data\Vendor.cs" />
+    <Compile Include="forms\data\MasterMouldCode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\data\MasterMouldCode.Designer.cs">
+      <DependentUpon>MasterMouldCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\data\MasterMouldCodeInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\data\MasterMouldCodeInput.Designer.cs">
+      <DependentUpon>MasterMouldCodeInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\data\MasterOem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\data\MasterOem.Designer.cs">
+      <DependentUpon>MasterOem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\data\MasterOemInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\data\MasterOemInput.Designer.cs">
+      <DependentUpon>MasterOemInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\data\MasterVendor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\data\MasterVendor.Designer.cs">
+      <DependentUpon>MasterVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\data\MasterVendorInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\data\MasterVendorInput.Designer.cs">
+      <DependentUpon>MasterVendorInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\disposal\DisposalHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\disposal\DisposalHistory.Designer.cs">
+      <DependentUpon>DisposalHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\disposal\DisposalProcessing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\disposal\DisposalProcessing.Designer.cs">
+      <DependentUpon>DisposalProcessing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\disposal\DisposalView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\disposal\DisposalView.Designer.cs">
+      <DependentUpon>DisposalView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaCancelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaCancelForm.Designer.cs">
+      <DependentUpon>FaCancelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaApprovalView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaApprovalView.Designer.cs">
+      <DependentUpon>FaApprovalView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaDisposalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaDisposalForm.Designer.cs">
+      <DependentUpon>FaDisposalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\fixedasset\FaView.Designer.cs">
+      <DependentUpon>FaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\instock\InstockView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\instock\InstockView.Designer.cs">
+      <DependentUpon>InstockView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MainView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\MainView.Designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\po\PoView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\po\PoView.Designer.cs">
+      <DependentUpon>PoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\quotation\QuotationEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\quotation\QuotationEdit.Designer.cs">
+      <DependentUpon>QuotationEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\quotation\QuotationInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\quotation\QuotationInput.Designer.cs">
+      <DependentUpon>QuotationInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\quotation\QuotationModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\quotation\QuotationModify.Designer.cs">
+      <DependentUpon>QuotationModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportBase.Designer.cs">
+      <DependentUpon>ReportBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportBaseSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportBaseSelection.Designer.cs">
+      <DependentUpon>ReportBaseSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportCD.Designer.cs">
+      <DependentUpon>ReportCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportCollection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportCollection.Designer.cs">
+      <DependentUpon>ReportCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportModify.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportModify.Designer.cs">
+      <DependentUpon>ReportModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportPayment.Designer.cs">
+      <DependentUpon>ReportPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\report\ReportView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\report\ReportView.Designer.cs">
+      <DependentUpon>ReportView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\ringi\RingiAssign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\ringi\RingiAssign.Designer.cs">
+      <DependentUpon>RingiAssign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\transfer\TransferHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\transfer\TransferHistory.Designer.cs">
+      <DependentUpon>TransferHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\transfer\TransferView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="forms\transfer\TransferView.Designer.cs">
+      <DependentUpon>TransferView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\lists\QuotationEditList.cs" />
+    <Compile Include="ipo\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ipo\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\views\approval\ApprovalView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ipo\views\approval\ApprovalView.Designer.cs">
+      <DependentUpon>ApprovalView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\views\MouldView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ipo\views\MouldView.Designer.cs">
+      <DependentUpon>MouldView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\views\QuotationEditView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ipo\views\QuotationEditView.Designer.cs">
+      <DependentUpon>QuotationEditView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\views\QuotationView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ipo\views\QuotationView.Designer.cs">
+      <DependentUpon>QuotationView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\views\setting\CriteriaView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ipo\views\setting\CriteriaView.Designer.cs">
+      <DependentUpon>CriteriaView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ipo\views\setting\RateView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ipo\views\setting\RateView.Designer.cs">
+      <DependentUpon>RateView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lists\MouldDataList.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="output\ExcelUtil.cs" />
+    <Compile Include="output\PdfUtil.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="services\DataService.cs" />
+    <Compile Include="services\DataServiceMould.cs" />
+    <Compile Include="services\GlobalService.cs" />
+    <Compile Include="test\CustomCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="utils\DataTableUtil.cs" />
+    <Compile Include="utils\DataUtil.cs" />
+    <Compile Include="utils\EmailUtil.cs" />
+    <Compile Include="utils\LogUtils.cs" />
+    <Compile Include="utils\QuotationUtil.cs" />
+    <Compile Include="utils\StartupUtil.cs" />
+    <Compile Include="utils\SystemUtil.cs" />
+    <EmbeddedResource Include="account\FaApproval.resx">
+      <DependentUpon>FaApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaAssetClass.resx">
+      <DependentUpon>FaAssetClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaAssetClass2.resx">
+      <DependentUpon>FaAssetClass2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaDataCheck.resx">
+      <DependentUpon>FaDataCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaDownload.resx">
+      <DependentUpon>FaDownload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaInput.resx">
+      <DependentUpon>FaInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaOverview.resx">
+      <DependentUpon>FaOverview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaReview.resx">
+      <DependentUpon>FaReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaRingi.resx">
+      <DependentUpon>FaRingi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\FaSetup.resx">
+      <DependentUpon>FaSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\form\FixedAssetGenerate.resx">
+      <DependentUpon>FixedAssetGenerate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\form\RejectForm.resx">
+      <DependentUpon>RejectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account\MainAccount.resx">
+      <DependentUpon>MainAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\data\MasterMouldCode.resx">
+      <DependentUpon>MasterMouldCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\data\MasterMouldCodeInput.resx">
+      <DependentUpon>MasterMouldCodeInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\data\MasterOem.resx">
+      <DependentUpon>MasterOem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\data\MasterOemInput.resx">
+      <DependentUpon>MasterOemInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\data\MasterVendor.resx">
+      <DependentUpon>MasterVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\data\MasterVendorInput.resx">
+      <DependentUpon>MasterVendorInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\disposal\DisposalHistory.resx">
+      <DependentUpon>DisposalHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\disposal\DisposalProcessing.resx">
+      <DependentUpon>DisposalProcessing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\disposal\DisposalView.resx">
+      <DependentUpon>DisposalView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\fixedasset\FaCancelForm.resx">
+      <DependentUpon>FaCancelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\fixedasset\FaApprovalView.resx">
+      <DependentUpon>FaApprovalView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\fixedasset\FaDisposalForm.resx">
+      <DependentUpon>FaDisposalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\fixedasset\FaView.resx">
+      <DependentUpon>FaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\instock\InstockView.resx">
+      <DependentUpon>InstockView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\po\PoView.resx">
+      <DependentUpon>PoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\quotation\QuotationEdit.resx">
+      <DependentUpon>QuotationEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\quotation\QuotationInput.resx">
+      <DependentUpon>QuotationInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\quotation\QuotationModify.resx">
+      <DependentUpon>QuotationModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportBase.resx">
+      <DependentUpon>ReportBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportBaseSelection.resx">
+      <DependentUpon>ReportBaseSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportCD.resx">
+      <DependentUpon>ReportCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportCollection.resx">
+      <DependentUpon>ReportCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportModify.resx">
+      <DependentUpon>ReportModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportPayment.resx">
+      <DependentUpon>ReportPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\report\ReportView.resx">
+      <DependentUpon>ReportView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\ringi\RingiAssign.resx">
+      <DependentUpon>RingiAssign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\transfer\TransferHistory.resx">
+      <DependentUpon>TransferHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\transfer\TransferView.resx">
+      <DependentUpon>TransferView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\views\approval\ApprovalView.resx">
+      <DependentUpon>ApprovalView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\views\MouldView.resx">
+      <DependentUpon>MouldView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\views\QuotationEditView.resx">
+      <DependentUpon>QuotationEditView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\views\QuotationView.resx">
+      <DependentUpon>QuotationView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\views\setting\CriteriaView.resx">
+      <DependentUpon>CriteriaView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipo\views\setting\RateView.resx">
+      <DependentUpon>RateView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="KDTHK_MOULD_SYSTEM_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1419248292_forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1419248295_gtk-go-forward-rtl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-button_basic_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-button_basic_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="account\Cancel\" />
+    <Folder Include="account\Disposal\" />
+    <Folder Include="ipo\forms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-kyocera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temp.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lib\native\CustomUtil.dll" />
+    <Content Include="Reports %281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

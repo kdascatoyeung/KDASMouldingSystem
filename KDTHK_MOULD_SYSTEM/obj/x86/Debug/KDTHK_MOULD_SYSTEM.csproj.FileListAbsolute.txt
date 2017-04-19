@@ -1,0 +1,133 @@
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.exe
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.pdb
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.Main.resources
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.Properties.Resources.resources
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.exe
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.pdb
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\CustomUtil.dll
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\Net.SourceForge.Koogra.dll
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\Ionic.Utils.Zip.dll
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\CustomUtil.pdb
+c:\users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.MainView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.MainAccount.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaInput.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaApproval.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaOverview.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaReview.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.quotation.QuotationInput.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.po.PoView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.instock.InstockView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.ringi.RingiAssign.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\itextsharp.dll
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaApprovalView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterMouldCode.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterOem.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterVendor.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterOemInput.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterMouldCodeInput.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterVendorInput.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.disposal.DisposalView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.transfer.TransferView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportBase.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportCD.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportCollection.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportModify.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportPayment.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportBaseSelection.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.transfer.TransferHistory.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.disposal.DisposalHistory.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.disposal.DisposalProcessing.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaCancelForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaDisposalForm.resources
+C:\Users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.quotation.QuotationEdit.resources
+C:\Users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.quotation.QuotationModify.resources
+C:\Users\hk120027\documents\visual studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaAssetClass.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaDataCheck.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.exe.manifest
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.application
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.exe.manifest
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.application
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaAssetClass2.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaDownload.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaRingi.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.form.FixedAssetGenerate.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.Main.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.MouldView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.QuotationView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.QuotationEditView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.setting.CriteriaView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.setting.RateView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.approval.ApprovalView.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.form.RejectForm.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaSetup.resources
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.csproj.GenerateResource.Cache
+C:\Users\hk120027\Documents\Visual Studio 2010\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\BarcodeLib.dll
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.exe.manifest
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.application
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.exe
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\KDTHK_MOULD_SYSTEM.pdb
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\CustomUtil.dll
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\itextsharp.dll
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\BarcodeLib.dll
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\Net.SourceForge.Koogra.dll
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\bin\Debug\Ionic.Utils.Zip.dll
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.csprojResolveAssemblyReference.cache
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaApproval.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaAssetClass.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaAssetClass2.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaDataCheck.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaDownload.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaInput.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaOverview.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaReview.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaRingi.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.FaSetup.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.form.FixedAssetGenerate.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.form.RejectForm.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.account.MainAccount.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterMouldCode.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterMouldCodeInput.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterOem.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterOemInput.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterVendor.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.data.MasterVendorInput.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.disposal.DisposalHistory.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.disposal.DisposalProcessing.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.disposal.DisposalView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaCancelForm.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaApprovalView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaDisposalForm.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.fixedasset.FaView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.instock.InstockView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.MainView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.po.PoView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.quotation.QuotationEdit.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.quotation.QuotationInput.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.quotation.QuotationModify.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportBase.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportBaseSelection.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportCD.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportCollection.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportModify.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportPayment.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.report.ReportView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.ringi.RingiAssign.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.transfer.TransferHistory.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.forms.transfer.TransferView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.Main.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.approval.ApprovalView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.MouldView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.QuotationEditView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.QuotationView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.setting.CriteriaView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.ipo.views.setting.RateView.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.Main.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.Properties.Resources.resources
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.csproj.GenerateResource.Cache
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.exe.manifest
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.application
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.exe
+D:\Projects\KDTHK_MOULD_SYSTEM\KDTHK_MOULD_SYSTEM\obj\x86\Debug\KDTHK_MOULD_SYSTEM.pdb
